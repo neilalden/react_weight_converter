@@ -1,2 +1,2 @@
-weight conerter made with react
+# weight converter made with react
 <img src="public/convert.gif"/>
